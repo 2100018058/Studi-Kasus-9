@@ -1,0 +1,23 @@
+//input 
+Masukkan Banyak Judul :
+===================================
+Masukkan Jenis Buku :
+Masukkan Judul Buku :
+Masukkan Penulis Buku :
+===================================
+Masukkan Jenis Buku :
+Masukkan Judul Buku :
+Masukkan Penulis Buku :
+===================================
+
+
+//output
+Menampilkan Hasil array 1 dimensi :
+|  Jenis Buku  |  Judul  |  Penulis  |
+|  Jenis Buku  |  Judul  |  Penulis  |
+|  Jenis Buku  |  Judul  |  Penulis  |
+
+Menampilkan Hasil array 2 dimensi :
+|  Jenis Buku  |  Judul  |  Penulis  |
+|  Jenis Buku  |  Judul  |  Penulis  |
+|  Jenis Buku  |  Judul  |  Penulis  |
